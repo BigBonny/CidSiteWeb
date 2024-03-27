@@ -33,11 +33,6 @@ Caractéristiques principales:
 ### Conditions préalables
 **Nœud version 18.17 ou ultérieure**
 
-### Clonage du référentiel
-
-```shell
-git clone https://github.com/AntonioErdeljac/next14-twitch-clone.git
-```
 ### Installer les packages
 
 ```shell
@@ -86,4 +81,4 @@ Exécuter des commandes avec npm `npm run [command]`
 
 | commande        | descriptif                                             |
 | :---------------| :------------------------------------------------------|
-| `dév`           | Démarre une instance de développement de l'application |
+| `dev`           | Démarre une instance de développement de l'application |
